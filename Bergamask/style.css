@@ -1,0 +1,45 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    background-color: rgb(233, 222, 107);
+    font-size: 4em;
+}
+
+
+
+h2 {
+    font-size: 2em;
+}
+
+#cim {
+    background-color: rgb(233, 222, 107);
+    font-size: 5rem;
+}
+
+#targy {
+    margin-top: 1em;
+}
+
+#img {
+    width: 50%;
+}
+
+#szoveg {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-style: italic;
+}
+
+a {
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 1em;
+    margin: 2em;
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    font-size: larger;
+}
